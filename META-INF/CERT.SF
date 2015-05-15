@@ -1,0 +1,82 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: KP/dnfC6yv67beCoR/fmFgxi8W4=
+
+Name: res/drawable-hdpi/pin_icon.png
+SHA1-Digest: 3HSRAQF2OpCHt18tvXD304N8D7g=
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: hDwA28hxmcGovP0qIaPUWr8FRvM=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: +oKNT6jjN1xWBz7L4DRYGd5Qr4c=
+
+Name: res/layout/aboutdialog.xml
+SHA1-Digest: HupTzwB870Ztzgr1hSOvNkaQC6k=
+
+Name: res/drawable-hdpi/star.png
+SHA1-Digest: mb5oEmYJT6SLVrVTPiy1aMgh3LA=
+
+Name: resources.arsc
+SHA1-Digest: PeJc4Js0hJnwcmNB92ymIjej/gQ=
+
+Name: res/menu/main_menu.xml
+SHA1-Digest: XRA9GW4visvnraSKB9jxkt5WN3s=
+
+Name: res/drawable-ldpi/ic_launcher.png
+SHA1-Digest: pDzvAyWFauHnBP9UD+ILu1K/vgE=
+
+Name: AndroidManifest.xml
+SHA1-Digest: Aqb2B8z0285FPnq59EFcwnssTUI=
+
+Name: res/drawable-hdpi/star_active.png
+SHA1-Digest: Bd9yud9Dc/h4HP/lKVTSqnMzZUc=
+
+Name: res/menu/main_menu_tablet.xml
+SHA1-Digest: RpeUgnOY8oWEj+ETSJTeTwvUcak=
+
+Name: res/drawable-hdpi/add_item_active.png
+SHA1-Digest: dAct4us64MFRJFahqi6DPUIu3+c=
+
+Name: res/drawable-hdpi/cross_item.png
+SHA1-Digest: oqwXAMWs6nkiXOgNAUv0DVXdt0A=
+
+Name: res/drawable-hdpi/ic_menu_refresh.png
+SHA1-Digest: E368Mjd5cBKoJKNMFe0YxChghTI=
+
+Name: res/drawable-hdpi/ic_menu_favorite.png
+SHA1-Digest: PBgghuJJaWOzptJk4MCbbv+RTps=
+
+Name: res/layout/activity_dashboard.xml
+SHA1-Digest: 31fS5O2pu0abHArHtHbb44V2b0I=
+
+Name: res/drawable-hdpi/ic_title_share_default.png
+SHA1-Digest: 8ZtOwmBwBFpGuZ6VhTF1x9hG1VM=
+
+Name: res/menu-v11/main_menu.xml
+SHA1-Digest: nuwYdBZ3a6t5GtrSNtV5b/m2VXU=
+
+Name: classes.dex
+SHA1-Digest: bMCWE037kn5g1+KJXZaMO9BAfIw=
+
+Name: res/drawable-xxhdpi/ic_launcher.png
+SHA1-Digest: WyqV9JVtctMPOGxnq9w/3hXKnAM=
+
+Name: res/drawable-hdpi/about_appsgeyser_logo.png
+SHA1-Digest: BaMNiyi6J333vmH7d5r2258G/Ik=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: cjQdevd2frYnQlnhpUaJHZPm5VM=
+
+Name: res/drawable-hdpi/reload_item.png
+SHA1-Digest: nB+UNZfvs0KJ9l0W/5euM2djwFA=
+
+Name: assets/params.txt
+SHA1-Digest: iUsxMbcWS8R5pL3GJMz0I7r7+Ig=
+
+Name: res/drawable-hdpi/add_item.png
+SHA1-Digest: pNheuOVQG15EJOoMxnEYJ2vEmhw=
+
+Name: res/drawable-hdpi/ic_menu_add.png
+SHA1-Digest: Kn7ptrgqj0Y5aUl+86aEkncsVoI=
+
